@@ -8,6 +8,7 @@ public class  Calculate{
 
 /**
 *Основной метод в программе
+*@param args - аргументы из командной строки.
 */
 	public static void main(String[] args) {
 		
